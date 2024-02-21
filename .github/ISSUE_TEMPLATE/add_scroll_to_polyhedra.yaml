@@ -1,12 +1,12 @@
 name: Add Scroll to some tool or library
 description: This brings Scroll compatibility into an existing library or project
-title: Add Scroll to
+title: Add Scroll to polyhedra
 labels: ["integration"]
 body:
   - type: input
     id: integration_name
     attributes:
-      label: "Name of the project"
+      label: "polyhedra"
       placeholder: "Example: wagmi"
     validations:
       required: true
